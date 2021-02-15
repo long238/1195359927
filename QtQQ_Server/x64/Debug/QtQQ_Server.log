@@ -1,0 +1,5 @@
+﻿  Reading Qt configuration (D:/QT/5.14.1/msvc2017_64/bin/qmake)
+  rcc QtQQ_Server.qrc
+   RCC: Warning: No resources in 'C:\Users\Administrator\Source\Repos\QtQQ_Server\QtQQ_Server\QtQQ_Server.qrc'.
+  qrc_QtQQ_Server.cpp
+  QtQQ_Server.vcxproj -> C:\Users\Administrator\Source\Repos\QtQQ_Server\x64\Debug\QtQQ_Server.exe
